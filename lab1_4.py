@@ -9,6 +9,6 @@ def add_tax(bill_total):
 def greet_user(name):
     return "Hello " + name
 
-test_avg = calculate_average(1,2,3)
-print(test_avg)
-print(greet_user(input("What's your name?: ")))
+#test_avg = calculate_average(1,2,3)
+#print(test_avg)
+#print(greet_user(input("What's your name?: ")))
